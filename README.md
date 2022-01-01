@@ -8,4 +8,4 @@ Talking plastic cat with blinking LED eyes.
 ![Picture of Kitty Salon](/images/kitty-salon.png)
 ![Picture of Kitty Salon internals](/images/kitty-salon-bottom-1.png)
 ![Picture of Kitty Salon bottom cover](/images/kitty-salon-bottom-cover.png)
-![Picture of Kitty Salon mold](/images/kitty-salon-mold.png)
+![Picture of Kitty Salon mold](/images/kitty-salon-mold-2.png)
