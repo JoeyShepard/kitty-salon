@@ -1,0 +1,3 @@
+try-3: 16-bit wave scaled to full volume level then converted to 8-bit
+try-4: same as try-3 with Anna's voice - good result
+try-5: same as try-3 but output as binary for external EEPROM
